@@ -60,3 +60,4 @@ export class AuthService {
 const authService = new AuthService();
 
 export default AuthService;
+// this cod is shit
